@@ -1,0 +1,671 @@
+day_of_week,weekend,DoW,hour,device,count_fire
+0.0,Weekend,Sunday,11.0,mobile app,82
+0.0,Weekend,Sunday,19.0,desktop,2250
+0.0,Weekend,Sunday,21.0,mobile,495
+0.0,Weekend,Sunday,22.0,mobile app,39
+0.0,Weekend,Sunday,9.0,desktop,3736
+0.0,Weekend,Sunday,11.0,mobile,2016
+0.0,Weekend,Sunday,13.0,tablet,1153
+0.0,Weekend,Sunday,18.0,desktop,4127
+0.0,Weekend,Sunday,22.0,mobile,341
+0.0,Weekend,Sunday,23.0,mobile app,11
+0.0,Weekend,Sunday,1.0,desktop,231
+0.0,Weekend,Sunday,3.0,mobile app,111
+0.0,Weekend,Sunday,6.0,mobile app,121
+0.0,Weekend,Sunday,12.0,mobile app,114
+0.0,Weekend,Sunday,17.0,desktop,4147
+0.0,Weekend,Sunday,23.0,mobile,222
+0.0,Weekend,Sunday,2.0,desktop,536
+0.0,Weekend,Sunday,3.0,mobile,1373
+0.0,Weekend,Sunday,4.0,desktop,3816
+0.0,Weekend,Sunday,6.0,mobile,2674
+0.0,Weekend,Sunday,7.0,tablet,1220
+0.0,Weekend,Sunday,8.0,desktop,4546
+0.0,Weekend,Sunday,12.0,mobile,1941
+0.0,Weekend,Sunday,14.0,tablet,1368
+0.0,Weekend,Sunday,16.0,desktop,3690
+0.0,Weekend,Sunday,0.0,desktop,171
+0.0,Weekend,Sunday,13.0,mobile app,60
+0.0,Weekend,Sunday,13.0,mobile,1467
+0.0,Weekend,Sunday,15.0,desktop,4628
+0.0,Weekend,Sunday,15.0,tablet,1175
+0.0,Weekend,Sunday,0.0,tablet,37
+0.0,Weekend,Sunday,7.0,mobile app,95
+0.0,Weekend,Sunday,14.0,mobile app,134
+0.0,Weekend,Sunday,2.0,tablet,293
+0.0,Weekend,Sunday,4.0,tablet,1915
+0.0,Weekend,Sunday,7.0,desktop,5817
+0.0,Weekend,Sunday,7.0,mobile,1917
+0.0,Weekend,Sunday,8.0,tablet,1077
+0.0,Weekend,Sunday,14.0,desktop,4927
+0.0,Weekend,Sunday,14.0,mobile,1819
+0.0,Weekend,Sunday,16.0,tablet,1294
+0.0,Weekend,Sunday,1.0,tablet,152
+0.0,Weekend,Sunday,15.0,mobile app,34
+0.0,Weekend,Sunday,17.0,tablet,1891
+0.0,Weekend,Sunday,0.0,mobile app,2
+0.0,Weekend,Sunday,9.0,tablet,1003
+0.0,Weekend,Sunday,13.0,desktop,5772
+0.0,Weekend,Sunday,15.0,mobile,1936
+0.0,Weekend,Sunday,18.0,tablet,1401
+0.0,Weekend,Sunday,0.0,mobile,168
+0.0,Weekend,Sunday,2.0,mobile app,47
+0.0,Weekend,Sunday,4.0,mobile app,132
+0.0,Weekend,Sunday,8.0,mobile app,119
+0.0,Weekend,Sunday,11.0,game console,2
+0.0,Weekend,Sunday,16.0,mobile app,143
+0.0,Weekend,Sunday,19.0,tablet,913
+0.0,Weekend,Sunday,1.0,mobile app,1
+0.0,Weekend,Sunday,2.0,mobile,481
+0.0,Weekend,Sunday,3.0,desktop,1849
+0.0,Weekend,Sunday,4.0,mobile,2902
+0.0,Weekend,Sunday,5.0,tablet,1846
+0.0,Weekend,Sunday,6.0,desktop,5528
+0.0,Weekend,Sunday,8.0,mobile,1621
+0.0,Weekend,Sunday,10.0,tablet,1360
+0.0,Weekend,Sunday,12.0,desktop,4942
+0.0,Weekend,Sunday,16.0,mobile,1794
+0.0,Weekend,Sunday,17.0,mobile app,101
+0.0,Weekend,Sunday,20.0,tablet,543
+0.0,Weekend,Sunday,1.0,mobile,331
+0.0,Weekend,Sunday,9.0,mobile app,64
+0.0,Weekend,Sunday,12.0,game console,4
+0.0,Weekend,Sunday,17.0,mobile,2327
+0.0,Weekend,Sunday,18.0,mobile app,127
+0.0,Weekend,Sunday,21.0,tablet,97
+0.0,Weekend,Sunday,23.0,desktop,235
+0.0,Weekend,Sunday,9.0,mobile,1624
+0.0,Weekend,Sunday,11.0,desktop,4585
+0.0,Weekend,Sunday,11.0,tablet,1385
+0.0,Weekend,Sunday,18.0,mobile,2486
+0.0,Weekend,Sunday,19.0,mobile app,103
+0.0,Weekend,Sunday,22.0,desktop,308
+0.0,Weekend,Sunday,22.0,tablet,24
+0.0,Weekend,Sunday,5.0,mobile app,103
+0.0,Weekend,Sunday,10.0,mobile app,90
+0.0,Weekend,Sunday,19.0,mobile,2119
+0.0,Weekend,Sunday,20.0,mobile app,44
+0.0,Weekend,Sunday,21.0,desktop,470
+0.0,Weekend,Sunday,23.0,tablet,17
+0.0,Weekend,Sunday,3.0,tablet,884
+0.0,Weekend,Sunday,5.0,desktop,5566
+0.0,Weekend,Sunday,5.0,mobile,2943
+0.0,Weekend,Sunday,6.0,tablet,1384
+0.0,Weekend,Sunday,10.0,desktop,4362
+0.0,Weekend,Sunday,10.0,mobile,1959
+0.0,Weekend,Sunday,12.0,tablet,1043
+0.0,Weekend,Sunday,20.0,desktop,1050
+0.0,Weekend,Sunday,20.0,mobile,1038
+0.0,Weekend,Sunday,21.0,mobile app,24
+1.0,Weekday,Monday,2.0,desktop,325
+1.0,Weekday,Monday,4.0,desktop,2476
+1.0,Weekday,Monday,8.0,desktop,4945
+1.0,Weekday,Monday,9.0,mobile,1201
+1.0,Weekday,Monday,11.0,tablet,674
+1.0,Weekday,Monday,16.0,desktop,2983
+1.0,Weekday,Monday,18.0,mobile,2440
+1.0,Weekday,Monday,19.0,mobile app,73
+1.0,Weekday,Monday,22.0,tablet,50
+1.0,Weekday,Monday,0.0,desktop,104
+1.0,Weekday,Monday,5.0,mobile app,44
+1.0,Weekday,Monday,10.0,mobile app,160
+1.0,Weekday,Monday,19.0,mobile,1826
+1.0,Weekday,Monday,20.0,mobile app,24
+1.0,Weekday,Monday,23.0,tablet,24
+1.0,Weekday,Monday,3.0,tablet,491
+1.0,Weekday,Monday,5.0,mobile,1230
+1.0,Weekday,Monday,6.0,tablet,572
+1.0,Weekday,Monday,10.0,mobile,1311
+1.0,Weekday,Monday,12.0,tablet,406
+1.0,Weekday,Monday,15.0,desktop,3600
+1.0,Weekday,Monday,20.0,mobile,1047
+1.0,Weekday,Monday,21.0,mobile app,20
+1.0,Weekday,Monday,11.0,mobile app,67
+1.0,Weekday,Monday,21.0,mobile,548
+1.0,Weekday,Monday,22.0,mobile app,32
+1.0,Weekday,Monday,7.0,desktop,7287
+1.0,Weekday,Monday,11.0,mobile,1066
+1.0,Weekday,Monday,13.0,tablet,696
+1.0,Weekday,Monday,14.0,desktop,4365
+1.0,Weekday,Monday,22.0,mobile,205
+1.0,Weekday,Monday,23.0,mobile app,30
+1.0,Weekday,Monday,3.0,mobile app,25
+1.0,Weekday,Monday,6.0,mobile app,49
+1.0,Weekday,Monday,12.0,mobile app,21
+1.0,Weekday,Monday,23.0,mobile,169
+1.0,Weekday,Monday,3.0,mobile,1099
+1.0,Weekday,Monday,6.0,mobile,1187
+1.0,Weekday,Monday,7.0,tablet,564
+1.0,Weekday,Monday,12.0,mobile,1305
+1.0,Weekday,Monday,13.0,desktop,4518
+1.0,Weekday,Monday,14.0,tablet,620
+1.0,Weekday,Monday,13.0,mobile app,41
+1.0,Weekday,Monday,3.0,desktop,1373
+1.0,Weekday,Monday,6.0,desktop,6586
+1.0,Weekday,Monday,12.0,desktop,5593
+1.0,Weekday,Monday,13.0,mobile,988
+1.0,Weekday,Monday,15.0,tablet,808
+1.0,Weekday,Monday,0.0,tablet,26
+1.0,Weekday,Monday,7.0,mobile app,23
+1.0,Weekday,Monday,14.0,mobile app,110
+1.0,Weekday,Monday,23.0,desktop,93
+1.0,Weekday,Monday,2.0,tablet,113
+1.0,Weekday,Monday,4.0,tablet,720
+1.0,Weekday,Monday,7.0,mobile,1425
+1.0,Weekday,Monday,8.0,tablet,504
+1.0,Weekday,Monday,11.0,desktop,5733
+1.0,Weekday,Monday,14.0,mobile,1163
+1.0,Weekday,Monday,16.0,tablet,854
+1.0,Weekday,Monday,22.0,desktop,183
+1.0,Weekday,Monday,1.0,tablet,144
+1.0,Weekday,Monday,15.0,mobile app,59
+1.0,Weekday,Monday,17.0,tablet,1347
+1.0,Weekday,Monday,21.0,desktop,591
+1.0,Weekday,Monday,0.0,mobile app,10
+1.0,Weekday,Monday,5.0,desktop,4619
+1.0,Weekday,Monday,9.0,tablet,477
+1.0,Weekday,Monday,10.0,desktop,6972
+1.0,Weekday,Monday,15.0,mobile,1006
+1.0,Weekday,Monday,18.0,tablet,1498
+1.0,Weekday,Monday,20.0,desktop,1414
+1.0,Weekday,Monday,0.0,mobile,193
+1.0,Weekday,Monday,2.0,mobile app,19
+1.0,Weekday,Monday,4.0,mobile app,87
+1.0,Weekday,Monday,8.0,mobile app,23
+1.0,Weekday,Monday,16.0,mobile app,42
+1.0,Weekday,Monday,19.0,desktop,2289
+1.0,Weekday,Monday,19.0,tablet,1091
+1.0,Weekday,Monday,1.0,mobile app,2
+1.0,Weekday,Monday,2.0,mobile,329
+1.0,Weekday,Monday,4.0,mobile,1074
+1.0,Weekday,Monday,5.0,tablet,609
+1.0,Weekday,Monday,8.0,mobile,1066
+1.0,Weekday,Monday,9.0,desktop,5105
+1.0,Weekday,Monday,10.0,tablet,626
+1.0,Weekday,Monday,16.0,mobile,1351
+1.0,Weekday,Monday,17.0,mobile app,61
+1.0,Weekday,Monday,18.0,desktop,2891
+1.0,Weekday,Monday,20.0,tablet,396
+1.0,Weekday,Monday,1.0,desktop,156
+1.0,Weekday,Monday,1.0,mobile,197
+1.0,Weekday,Monday,9.0,mobile app,70
+1.0,Weekday,Monday,17.0,desktop,3734
+1.0,Weekday,Monday,17.0,mobile,2290
+1.0,Weekday,Monday,18.0,mobile app,180
+1.0,Weekday,Monday,21.0,tablet,184
+2.0,Weekday,Tuesday,0.0,mobile app,12
+2.0,Weekday,Tuesday,7.0,desktop,5904
+2.0,Weekday,Tuesday,9.0,tablet,622
+2.0,Weekday,Tuesday,14.0,desktop,3588
+2.0,Weekday,Tuesday,15.0,mobile,987
+2.0,Weekday,Tuesday,18.0,tablet,1060
+2.0,Weekday,Tuesday,0.0,mobile,121
+2.0,Weekday,Tuesday,2.0,mobile app,36
+2.0,Weekday,Tuesday,4.0,mobile app,100
+2.0,Weekday,Tuesday,8.0,mobile app,95
+2.0,Weekday,Tuesday,16.0,mobile app,102
+2.0,Weekday,Tuesday,19.0,tablet,976
+2.0,Weekday,Tuesday,2.0,mobile,677
+2.0,Weekday,Tuesday,4.0,mobile,1396
+2.0,Weekday,Tuesday,5.0,tablet,953
+2.0,Weekday,Tuesday,8.0,mobile,1124
+2.0,Weekday,Tuesday,10.0,tablet,540
+2.0,Weekday,Tuesday,13.0,desktop,4027
+2.0,Weekday,Tuesday,16.0,mobile,982
+2.0,Weekday,Tuesday,17.0,mobile app,195
+2.0,Weekday,Tuesday,20.0,tablet,412
+2.0,Weekday,Tuesday,1.0,mobile,284
+2.0,Weekday,Tuesday,9.0,mobile app,18
+2.0,Weekday,Tuesday,12.0,game console,1
+2.0,Weekday,Tuesday,17.0,mobile,1558
+2.0,Weekday,Tuesday,18.0,mobile app,131
+2.0,Weekday,Tuesday,21.0,tablet,193
+2.0,Weekday,Tuesday,3.0,desktop,1860
+2.0,Weekday,Tuesday,6.0,desktop,5798
+2.0,Weekday,Tuesday,9.0,mobile,1289
+2.0,Weekday,Tuesday,11.0,tablet,618
+2.0,Weekday,Tuesday,12.0,desktop,4297
+2.0,Weekday,Tuesday,18.0,mobile,1602
+2.0,Weekday,Tuesday,19.0,mobile app,33
+2.0,Weekday,Tuesday,22.0,tablet,33
+2.0,Weekday,Tuesday,5.0,mobile app,79
+2.0,Weekday,Tuesday,10.0,mobile app,115
+2.0,Weekday,Tuesday,19.0,mobile,1655
+2.0,Weekday,Tuesday,20.0,mobile app,72
+2.0,Weekday,Tuesday,23.0,desktop,238
+2.0,Weekday,Tuesday,23.0,tablet,12
+2.0,Weekday,Tuesday,3.0,tablet,604
+2.0,Weekday,Tuesday,5.0,mobile,1501
+2.0,Weekday,Tuesday,6.0,tablet,849
+2.0,Weekday,Tuesday,10.0,mobile,1009
+2.0,Weekday,Tuesday,11.0,desktop,4590
+2.0,Weekday,Tuesday,12.0,tablet,551
+2.0,Weekday,Tuesday,20.0,mobile,841
+2.0,Weekday,Tuesday,21.0,mobile app,6
+2.0,Weekday,Tuesday,22.0,desktop,226
+2.0,Weekday,Tuesday,11.0,mobile app,35
+2.0,Weekday,Tuesday,21.0,desktop,274
+2.0,Weekday,Tuesday,21.0,mobile,587
+2.0,Weekday,Tuesday,22.0,mobile app,16
+2.0,Weekday,Tuesday,5.0,desktop,5391
+2.0,Weekday,Tuesday,10.0,desktop,5470
+2.0,Weekday,Tuesday,11.0,mobile,1168
+2.0,Weekday,Tuesday,13.0,tablet,608
+2.0,Weekday,Tuesday,20.0,desktop,759
+2.0,Weekday,Tuesday,22.0,mobile,281
+2.0,Weekday,Tuesday,3.0,mobile app,56
+2.0,Weekday,Tuesday,6.0,mobile app,94
+2.0,Weekday,Tuesday,12.0,mobile app,69
+2.0,Weekday,Tuesday,19.0,desktop,2016
+2.0,Weekday,Tuesday,23.0,mobile,98
+2.0,Weekday,Tuesday,3.0,mobile,1150
+2.0,Weekday,Tuesday,6.0,mobile,1294
+2.0,Weekday,Tuesday,7.0,tablet,615
+2.0,Weekday,Tuesday,9.0,desktop,5648
+2.0,Weekday,Tuesday,12.0,mobile,828
+2.0,Weekday,Tuesday,14.0,tablet,442
+2.0,Weekday,Tuesday,18.0,desktop,3048
+2.0,Weekday,Tuesday,1.0,desktop,268
+2.0,Weekday,Tuesday,13.0,mobile app,31
+2.0,Weekday,Tuesday,17.0,desktop,3201
+2.0,Weekday,Tuesday,2.0,desktop,544
+2.0,Weekday,Tuesday,4.0,desktop,3442
+2.0,Weekday,Tuesday,8.0,desktop,5391
+2.0,Weekday,Tuesday,13.0,mobile,743
+2.0,Weekday,Tuesday,15.0,tablet,629
+2.0,Weekday,Tuesday,16.0,desktop,2784
+2.0,Weekday,Tuesday,0.0,desktop,170
+2.0,Weekday,Tuesday,0.0,tablet,24
+2.0,Weekday,Tuesday,7.0,mobile app,44
+2.0,Weekday,Tuesday,14.0,mobile app,38
+2.0,Weekday,Tuesday,2.0,tablet,382
+2.0,Weekday,Tuesday,4.0,tablet,791
+2.0,Weekday,Tuesday,7.0,mobile,1176
+2.0,Weekday,Tuesday,8.0,tablet,348
+2.0,Weekday,Tuesday,14.0,mobile,1064
+2.0,Weekday,Tuesday,15.0,desktop,2496
+2.0,Weekday,Tuesday,16.0,tablet,816
+2.0,Weekday,Tuesday,1.0,tablet,126
+2.0,Weekday,Tuesday,15.0,mobile app,89
+2.0,Weekday,Tuesday,17.0,tablet,1100
+3.0,Weekday,Wednesday,0.0,mobile,92
+3.0,Weekday,Wednesday,2.0,mobile app,5
+3.0,Weekday,Wednesday,4.0,mobile app,25
+3.0,Weekday,Wednesday,8.0,mobile app,39
+3.0,Weekday,Wednesday,16.0,mobile app,77
+3.0,Weekday,Wednesday,19.0,tablet,623
+3.0,Weekday,Wednesday,1.0,mobile app,8
+3.0,Weekday,Wednesday,2.0,mobile,259
+3.0,Weekday,Wednesday,4.0,mobile,611
+3.0,Weekday,Wednesday,5.0,tablet,392
+3.0,Weekday,Wednesday,7.0,desktop,4439
+3.0,Weekday,Wednesday,8.0,mobile,730
+3.0,Weekday,Wednesday,10.0,tablet,551
+3.0,Weekday,Wednesday,14.0,desktop,2889
+3.0,Weekday,Wednesday,16.0,mobile,753
+3.0,Weekday,Wednesday,17.0,mobile app,49
+3.0,Weekday,Wednesday,20.0,tablet,348
+3.0,Weekday,Wednesday,1.0,mobile,130
+3.0,Weekday,Wednesday,9.0,mobile app,23
+3.0,Weekday,Wednesday,17.0,mobile,1160
+3.0,Weekday,Wednesday,18.0,mobile app,70
+3.0,Weekday,Wednesday,21.0,tablet,103
+3.0,Weekday,Wednesday,9.0,mobile,880
+3.0,Weekday,Wednesday,11.0,tablet,480
+3.0,Weekday,Wednesday,13.0,desktop,3591
+3.0,Weekday,Wednesday,18.0,mobile,1391
+3.0,Weekday,Wednesday,19.0,mobile app,70
+3.0,Weekday,Wednesday,22.0,tablet,63
+3.0,Weekday,Wednesday,5.0,mobile app,84
+3.0,Weekday,Wednesday,10.0,mobile app,46
+3.0,Weekday,Wednesday,19.0,mobile,1556
+3.0,Weekday,Wednesday,20.0,mobile app,23
+3.0,Weekday,Wednesday,23.0,tablet,83
+3.0,Weekday,Wednesday,3.0,desktop,946
+3.0,Weekday,Wednesday,3.0,tablet,403
+3.0,Weekday,Wednesday,5.0,mobile,849
+3.0,Weekday,Wednesday,6.0,desktop,4632
+3.0,Weekday,Wednesday,6.0,tablet,399
+3.0,Weekday,Wednesday,10.0,mobile,982
+3.0,Weekday,Wednesday,12.0,desktop,4072
+3.0,Weekday,Wednesday,12.0,tablet,439
+3.0,Weekday,Wednesday,20.0,mobile,610
+3.0,Weekday,Wednesday,21.0,mobile app,10
+3.0,Weekday,Wednesday,11.0,mobile app,24
+3.0,Weekday,Wednesday,21.0,mobile,363
+3.0,Weekday,Wednesday,23.0,desktop,330
+3.0,Weekday,Wednesday,11.0,desktop,4249
+3.0,Weekday,Wednesday,11.0,mobile,763
+3.0,Weekday,Wednesday,13.0,tablet,406
+3.0,Weekday,Wednesday,22.0,desktop,168
+3.0,Weekday,Wednesday,22.0,mobile,294
+3.0,Weekday,Wednesday,23.0,mobile app,2
+3.0,Weekday,Wednesday,3.0,mobile app,68
+3.0,Weekday,Wednesday,6.0,mobile app,26
+3.0,Weekday,Wednesday,12.0,mobile app,34
+3.0,Weekday,Wednesday,21.0,desktop,220
+3.0,Weekday,Wednesday,23.0,mobile,83
+3.0,Weekday,Wednesday,3.0,mobile,476
+3.0,Weekday,Wednesday,5.0,desktop,3552
+3.0,Weekday,Wednesday,6.0,mobile,905
+3.0,Weekday,Wednesday,7.0,tablet,358
+3.0,Weekday,Wednesday,10.0,desktop,3865
+3.0,Weekday,Wednesday,12.0,mobile,744
+3.0,Weekday,Wednesday,14.0,tablet,591
+3.0,Weekday,Wednesday,20.0,desktop,920
+3.0,Weekday,Wednesday,13.0,mobile app,37
+3.0,Weekday,Wednesday,19.0,desktop,1748
+3.0,Weekday,Wednesday,9.0,desktop,3249
+3.0,Weekday,Wednesday,13.0,mobile,656
+3.0,Weekday,Wednesday,15.0,tablet,464
+3.0,Weekday,Wednesday,18.0,desktop,3146
+3.0,Weekday,Wednesday,0.0,tablet,33
+3.0,Weekday,Wednesday,1.0,desktop,118
+3.0,Weekday,Wednesday,7.0,mobile app,5
+3.0,Weekday,Wednesday,14.0,mobile app,45
+3.0,Weekday,Wednesday,17.0,desktop,2923
+3.0,Weekday,Wednesday,2.0,desktop,275
+3.0,Weekday,Wednesday,2.0,tablet,231
+3.0,Weekday,Wednesday,4.0,desktop,1780
+3.0,Weekday,Wednesday,4.0,tablet,387
+3.0,Weekday,Wednesday,7.0,mobile,661
+3.0,Weekday,Wednesday,8.0,desktop,3099
+3.0,Weekday,Wednesday,8.0,tablet,305
+3.0,Weekday,Wednesday,14.0,mobile,758
+3.0,Weekday,Wednesday,16.0,desktop,2056
+3.0,Weekday,Wednesday,16.0,tablet,702
+3.0,Weekday,Wednesday,0.0,desktop,238
+3.0,Weekday,Wednesday,1.0,tablet,53
+3.0,Weekday,Wednesday,15.0,mobile app,58
+3.0,Weekday,Wednesday,17.0,tablet,1065
+3.0,Weekday,Wednesday,9.0,tablet,421
+3.0,Weekday,Wednesday,15.0,desktop,2318
+3.0,Weekday,Wednesday,15.0,mobile,840
+3.0,Weekday,Wednesday,18.0,tablet,926
+4.0,Weekday,Thursday,1.0,tablet,45
+4.0,Weekday,Thursday,15.0,mobile app,40
+4.0,Weekday,Thursday,17.0,tablet,903
+4.0,Weekday,Thursday,0.0,mobile app,3
+4.0,Weekday,Thursday,9.0,tablet,400
+4.0,Weekday,Thursday,13.0,desktop,3479
+4.0,Weekday,Thursday,15.0,mobile,1096
+4.0,Weekday,Thursday,18.0,tablet,837
+4.0,Weekday,Thursday,0.0,mobile,147
+4.0,Weekday,Thursday,2.0,mobile app,9
+4.0,Weekday,Thursday,4.0,mobile app,68
+4.0,Weekday,Thursday,8.0,mobile app,68
+4.0,Weekday,Thursday,16.0,mobile app,83
+4.0,Weekday,Thursday,19.0,tablet,735
+4.0,Weekday,Thursday,1.0,mobile app,40
+4.0,Weekday,Thursday,2.0,mobile,344
+4.0,Weekday,Thursday,3.0,desktop,1058
+4.0,Weekday,Thursday,4.0,mobile,1039
+4.0,Weekday,Thursday,5.0,tablet,800
+4.0,Weekday,Thursday,6.0,desktop,4904
+4.0,Weekday,Thursday,8.0,mobile,873
+4.0,Weekday,Thursday,10.0,tablet,565
+4.0,Weekday,Thursday,12.0,desktop,3816
+4.0,Weekday,Thursday,16.0,mobile,751
+4.0,Weekday,Thursday,17.0,mobile app,151
+4.0,Weekday,Thursday,20.0,tablet,330
+4.0,Weekday,Thursday,1.0,mobile,227
+4.0,Weekday,Thursday,9.0,mobile app,61
+4.0,Weekday,Thursday,17.0,mobile,1452
+4.0,Weekday,Thursday,18.0,mobile app,104
+4.0,Weekday,Thursday,21.0,tablet,56
+4.0,Weekday,Thursday,23.0,desktop,107
+4.0,Weekday,Thursday,9.0,mobile,1123
+4.0,Weekday,Thursday,11.0,desktop,4060
+4.0,Weekday,Thursday,11.0,tablet,626
+4.0,Weekday,Thursday,18.0,mobile,1555
+4.0,Weekday,Thursday,19.0,mobile app,47
+4.0,Weekday,Thursday,22.0,desktop,160
+4.0,Weekday,Thursday,22.0,tablet,48
+4.0,Weekday,Thursday,5.0,mobile app,192
+4.0,Weekday,Thursday,10.0,mobile app,19
+4.0,Weekday,Thursday,19.0,mobile,1222
+4.0,Weekday,Thursday,20.0,mobile app,41
+4.0,Weekday,Thursday,21.0,desktop,272
+4.0,Weekday,Thursday,23.0,tablet,3
+4.0,Weekday,Thursday,3.0,tablet,614
+4.0,Weekday,Thursday,5.0,desktop,3548
+4.0,Weekday,Thursday,5.0,mobile,1193
+4.0,Weekday,Thursday,6.0,tablet,792
+4.0,Weekday,Thursday,10.0,desktop,3930
+4.0,Weekday,Thursday,10.0,mobile,948
+4.0,Weekday,Thursday,12.0,tablet,448
+4.0,Weekday,Thursday,20.0,desktop,523
+4.0,Weekday,Thursday,20.0,mobile,600
+4.0,Weekday,Thursday,21.0,mobile app,2
+4.0,Weekday,Thursday,11.0,mobile app,32
+4.0,Weekday,Thursday,19.0,desktop,1474
+4.0,Weekday,Thursday,21.0,mobile,276
+4.0,Weekday,Thursday,9.0,desktop,3442
+4.0,Weekday,Thursday,11.0,mobile,1203
+4.0,Weekday,Thursday,13.0,tablet,497
+4.0,Weekday,Thursday,18.0,desktop,2393
+4.0,Weekday,Thursday,22.0,mobile,204
+4.0,Weekday,Thursday,1.0,desktop,160
+4.0,Weekday,Thursday,3.0,mobile app,67
+4.0,Weekday,Thursday,6.0,mobile app,83
+4.0,Weekday,Thursday,12.0,mobile app,59
+4.0,Weekday,Thursday,17.0,desktop,2517
+4.0,Weekday,Thursday,23.0,mobile,113
+4.0,Weekday,Thursday,2.0,desktop,426
+4.0,Weekday,Thursday,3.0,mobile,749
+4.0,Weekday,Thursday,4.0,desktop,2314
+4.0,Weekday,Thursday,6.0,mobile,1103
+4.0,Weekday,Thursday,7.0,tablet,709
+4.0,Weekday,Thursday,8.0,desktop,3276
+4.0,Weekday,Thursday,12.0,mobile,1141
+4.0,Weekday,Thursday,14.0,tablet,608
+4.0,Weekday,Thursday,16.0,desktop,2144
+4.0,Weekday,Thursday,0.0,desktop,155
+4.0,Weekday,Thursday,13.0,mobile app,23
+4.0,Weekday,Thursday,13.0,mobile,967
+4.0,Weekday,Thursday,15.0,desktop,2610
+4.0,Weekday,Thursday,15.0,tablet,624
+4.0,Weekday,Thursday,0.0,tablet,66
+4.0,Weekday,Thursday,7.0,mobile app,158
+4.0,Weekday,Thursday,14.0,mobile app,82
+4.0,Weekday,Thursday,2.0,tablet,120
+4.0,Weekday,Thursday,4.0,tablet,823
+4.0,Weekday,Thursday,7.0,desktop,4494
+4.0,Weekday,Thursday,7.0,mobile,1104
+4.0,Weekday,Thursday,8.0,tablet,433
+4.0,Weekday,Thursday,14.0,desktop,3251
+4.0,Weekday,Thursday,14.0,mobile,1042
+4.0,Weekday,Thursday,16.0,tablet,686
+5.0,Weekday,Friday,0.0,mobile app,2
+5.0,Weekday,Friday,7.0,desktop,3636
+5.0,Weekday,Friday,9.0,tablet,333
+5.0,Weekday,Friday,14.0,desktop,2446
+5.0,Weekday,Friday,15.0,mobile,457
+5.0,Weekday,Friday,18.0,tablet,741
+5.0,Weekday,Friday,0.0,mobile,117
+5.0,Weekday,Friday,2.0,mobile app,9
+5.0,Weekday,Friday,4.0,mobile app,29
+5.0,Weekday,Friday,8.0,mobile app,24
+5.0,Weekday,Friday,16.0,mobile app,71
+5.0,Weekday,Friday,19.0,tablet,413
+5.0,Weekday,Friday,1.0,mobile app,6
+5.0,Weekday,Friday,2.0,mobile,176
+5.0,Weekday,Friday,4.0,mobile,518
+5.0,Weekday,Friday,5.0,tablet,370
+5.0,Weekday,Friday,7.0,unknown,1
+5.0,Weekday,Friday,8.0,mobile,605
+5.0,Weekday,Friday,10.0,tablet,282
+5.0,Weekday,Friday,13.0,desktop,2529
+5.0,Weekday,Friday,16.0,mobile,673
+5.0,Weekday,Friday,17.0,mobile app,50
+5.0,Weekday,Friday,20.0,tablet,265
+5.0,Weekday,Friday,1.0,mobile,149
+5.0,Weekday,Friday,9.0,mobile app,18
+5.0,Weekday,Friday,17.0,mobile,1080
+5.0,Weekday,Friday,18.0,mobile app,70
+5.0,Weekday,Friday,21.0,tablet,59
+5.0,Weekday,Friday,3.0,desktop,596
+5.0,Weekday,Friday,6.0,desktop,3084
+5.0,Weekday,Friday,9.0,mobile,570
+5.0,Weekday,Friday,11.0,tablet,314
+5.0,Weekday,Friday,12.0,desktop,2895
+5.0,Weekday,Friday,18.0,mobile,1425
+5.0,Weekday,Friday,19.0,mobile app,33
+5.0,Weekday,Friday,22.0,tablet,23
+5.0,Weekday,Friday,5.0,mobile app,43
+5.0,Weekday,Friday,10.0,mobile app,13
+5.0,Weekday,Friday,19.0,mobile,1166
+5.0,Weekday,Friday,20.0,mobile app,9
+5.0,Weekday,Friday,23.0,desktop,53
+5.0,Weekday,Friday,23.0,tablet,8
+5.0,Weekday,Friday,3.0,tablet,225
+5.0,Weekday,Friday,5.0,mobile,742
+5.0,Weekday,Friday,6.0,tablet,306
+5.0,Weekday,Friday,10.0,mobile,833
+5.0,Weekday,Friday,11.0,desktop,2987
+5.0,Weekday,Friday,12.0,tablet,421
+5.0,Weekday,Friday,20.0,mobile,674
+5.0,Weekday,Friday,21.0,mobile app,19
+5.0,Weekday,Friday,22.0,desktop,172
+5.0,Weekday,Friday,11.0,mobile app,23
+5.0,Weekday,Friday,14.0,game console,8
+5.0,Weekday,Friday,21.0,desktop,275
+5.0,Weekday,Friday,21.0,mobile,400
+5.0,Weekday,Friday,22.0,mobile app,23
+5.0,Weekday,Friday,5.0,desktop,2565
+5.0,Weekday,Friday,10.0,desktop,3417
+5.0,Weekday,Friday,11.0,mobile,606
+5.0,Weekday,Friday,13.0,tablet,575
+5.0,Weekday,Friday,20.0,desktop,742
+5.0,Weekday,Friday,22.0,mobile,112
+5.0,Weekday,Friday,3.0,mobile app,4
+5.0,Weekday,Friday,6.0,mobile app,37
+5.0,Weekday,Friday,12.0,mobile app,30
+5.0,Weekday,Friday,19.0,desktop,1464
+5.0,Weekday,Friday,23.0,mobile,49
+5.0,Weekday,Friday,3.0,mobile,335
+5.0,Weekday,Friday,6.0,mobile,639
+5.0,Weekday,Friday,7.0,tablet,317
+5.0,Weekday,Friday,9.0,desktop,2735
+5.0,Weekday,Friday,12.0,mobile,854
+5.0,Weekday,Friday,14.0,tablet,312
+5.0,Weekday,Friday,18.0,desktop,2448
+5.0,Weekday,Friday,1.0,desktop,93
+5.0,Weekday,Friday,13.0,mobile app,14
+5.0,Weekday,Friday,17.0,desktop,1906
+5.0,Weekday,Friday,2.0,desktop,191
+5.0,Weekday,Friday,4.0,desktop,1193
+5.0,Weekday,Friday,8.0,desktop,1904
+5.0,Weekday,Friday,13.0,mobile,595
+5.0,Weekday,Friday,15.0,tablet,224
+5.0,Weekday,Friday,16.0,desktop,1635
+5.0,Weekday,Friday,0.0,desktop,119
+5.0,Weekday,Friday,0.0,tablet,10
+5.0,Weekday,Friday,7.0,mobile app,99
+5.0,Weekday,Friday,14.0,mobile app,67
+5.0,Weekday,Friday,2.0,tablet,103
+5.0,Weekday,Friday,4.0,tablet,317
+5.0,Weekday,Friday,7.0,mobile,690
+5.0,Weekday,Friday,8.0,tablet,335
+5.0,Weekday,Friday,14.0,mobile,693
+5.0,Weekday,Friday,15.0,desktop,1580
+5.0,Weekday,Friday,16.0,tablet,427
+5.0,Weekday,Friday,1.0,tablet,20
+5.0,Weekday,Friday,15.0,mobile app,41
+5.0,Weekday,Friday,17.0,tablet,501
+6.0,Weekend,Saturday,11.0,mobile app,28
+6.0,Weekend,Saturday,14.0,game console,3
+6.0,Weekend,Saturday,19.0,desktop,1100
+6.0,Weekend,Saturday,21.0,mobile,427
+6.0,Weekend,Saturday,22.0,mobile app,2
+6.0,Weekend,Saturday,9.0,desktop,1472
+6.0,Weekend,Saturday,11.0,mobile,919
+6.0,Weekend,Saturday,13.0,tablet,477
+6.0,Weekend,Saturday,18.0,desktop,1506
+6.0,Weekend,Saturday,22.0,mobile,316
+6.0,Weekend,Saturday,23.0,mobile app,14
+6.0,Weekend,Saturday,1.0,desktop,97
+6.0,Weekend,Saturday,3.0,mobile app,11
+6.0,Weekend,Saturday,6.0,mobile app,62
+6.0,Weekend,Saturday,12.0,mobile app,9
+6.0,Weekend,Saturday,17.0,desktop,1881
+6.0,Weekend,Saturday,23.0,mobile,66
+6.0,Weekend,Saturday,2.0,desktop,205
+6.0,Weekend,Saturday,3.0,mobile,263
+6.0,Weekend,Saturday,4.0,desktop,872
+6.0,Weekend,Saturday,6.0,mobile,649
+6.0,Weekend,Saturday,7.0,tablet,394
+6.0,Weekend,Saturday,8.0,desktop,1769
+6.0,Weekend,Saturday,12.0,mobile,1091
+6.0,Weekend,Saturday,14.0,tablet,333
+6.0,Weekend,Saturday,16.0,desktop,2081
+6.0,Weekend,Saturday,0.0,desktop,148
+6.0,Weekend,Saturday,13.0,mobile app,23
+6.0,Weekend,Saturday,13.0,mobile,564
+6.0,Weekend,Saturday,15.0,desktop,2163
+6.0,Weekend,Saturday,15.0,tablet,430
+6.0,Weekend,Saturday,0.0,tablet,5
+6.0,Weekend,Saturday,7.0,mobile app,59
+6.0,Weekend,Saturday,14.0,mobile app,59
+6.0,Weekend,Saturday,2.0,tablet,35
+6.0,Weekend,Saturday,4.0,tablet,473
+6.0,Weekend,Saturday,7.0,desktop,1755
+6.0,Weekend,Saturday,7.0,mobile,695
+6.0,Weekend,Saturday,8.0,tablet,392
+6.0,Weekend,Saturday,14.0,desktop,2292
+6.0,Weekend,Saturday,14.0,mobile,744
+6.0,Weekend,Saturday,16.0,tablet,430
+6.0,Weekend,Saturday,1.0,tablet,37
+6.0,Weekend,Saturday,15.0,mobile app,16
+6.0,Weekend,Saturday,17.0,tablet,569
+6.0,Weekend,Saturday,0.0,mobile app,1
+6.0,Weekend,Saturday,9.0,tablet,586
+6.0,Weekend,Saturday,13.0,desktop,2341
+6.0,Weekend,Saturday,15.0,mobile,729
+6.0,Weekend,Saturday,18.0,tablet,789
+6.0,Weekend,Saturday,0.0,mobile,48
+6.0,Weekend,Saturday,2.0,mobile app,2
+6.0,Weekend,Saturday,4.0,mobile app,14
+6.0,Weekend,Saturday,8.0,mobile app,25
+6.0,Weekend,Saturday,16.0,mobile app,6
+6.0,Weekend,Saturday,19.0,tablet,709
+6.0,Weekend,Saturday,2.0,mobile,71
+6.0,Weekend,Saturday,3.0,desktop,523
+6.0,Weekend,Saturday,4.0,mobile,569
+6.0,Weekend,Saturday,5.0,tablet,285
+6.0,Weekend,Saturday,6.0,desktop,1941
+6.0,Weekend,Saturday,8.0,mobile,848
+6.0,Weekend,Saturday,10.0,tablet,585
+6.0,Weekend,Saturday,12.0,desktop,1881
+6.0,Weekend,Saturday,16.0,mobile,690
+6.0,Weekend,Saturday,17.0,mobile app,46
+6.0,Weekend,Saturday,20.0,tablet,193
+6.0,Weekend,Saturday,1.0,mobile,102
+6.0,Weekend,Saturday,9.0,mobile app,34
+6.0,Weekend,Saturday,17.0,mobile,789
+6.0,Weekend,Saturday,18.0,mobile app,85
+6.0,Weekend,Saturday,21.0,tablet,146
+6.0,Weekend,Saturday,23.0,desktop,101
+6.0,Weekend,Saturday,9.0,mobile,597
+6.0,Weekend,Saturday,11.0,desktop,2239
+6.0,Weekend,Saturday,11.0,tablet,837
+6.0,Weekend,Saturday,18.0,mobile,1103
+6.0,Weekend,Saturday,19.0,mobile app,37
+6.0,Weekend,Saturday,22.0,desktop,166
+6.0,Weekend,Saturday,22.0,tablet,14
+6.0,Weekend,Saturday,5.0,mobile app,26
+6.0,Weekend,Saturday,10.0,mobile app,43
+6.0,Weekend,Saturday,19.0,mobile,1145
+6.0,Weekend,Saturday,20.0,mobile app,21
+6.0,Weekend,Saturday,21.0,desktop,572
+6.0,Weekend,Saturday,23.0,tablet,26
+6.0,Weekend,Saturday,3.0,tablet,167
+6.0,Weekend,Saturday,5.0,desktop,1713
+6.0,Weekend,Saturday,5.0,mobile,756
+6.0,Weekend,Saturday,6.0,tablet,492
+6.0,Weekend,Saturday,10.0,desktop,1958
+6.0,Weekend,Saturday,10.0,mobile,803
+6.0,Weekend,Saturday,12.0,tablet,617
+6.0,Weekend,Saturday,20.0,desktop,571
+6.0,Weekend,Saturday,20.0,mobile,686
+6.0,Weekend,Saturday,21.0,mobile app,14
